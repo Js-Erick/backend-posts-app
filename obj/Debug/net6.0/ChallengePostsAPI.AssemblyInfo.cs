@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("ChallengePostsAPI")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+0a0b176ab30beb418190beb0427e6d637e072e67")]
 [assembly: System.Reflection.AssemblyProductAttribute("ChallengePostsAPI")]
 [assembly: System.Reflection.AssemblyTitleAttribute("ChallengePostsAPI")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

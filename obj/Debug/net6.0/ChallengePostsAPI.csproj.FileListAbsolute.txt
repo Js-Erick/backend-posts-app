@@ -82,3 +82,4 @@ C:\Users\drefre\Documents\Programacion\DotNet\ChallengePostsAPI\ChallengePostsAP
 C:\Users\drefre\Documents\Programacion\DotNet\ChallengePostsAPI\ChallengePostsAPI\obj\Debug\net6.0\ChallengePostsAPI.pdb
 C:\Users\drefre\Documents\Programacion\DotNet\ChallengePostsAPI\ChallengePostsAPI\obj\Debug\net6.0\ChallengePostsAPI.genruntimeconfig.cache
 C:\Users\drefre\Documents\Programacion\DotNet\ChallengePostsAPI\ChallengePostsAPI\obj\Debug\net6.0\ref\ChallengePostsAPI.dll
+C:\Users\drefre\Documents\Programacion\DotNet\ChallengePostsAPI\ChallengePostsAPI\obj\Debug\net6.0\ChallengePostsAPI.sourcelink.json
